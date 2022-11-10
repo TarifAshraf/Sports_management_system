@@ -1,6 +1,6 @@
 # Sports-management-system
-Source codes:
-*PHP
-*HTML5
-*CSS3
-*Javascript
+Source code:
+* PHP
+* HTML5
+* CSS3
+* Javascript
